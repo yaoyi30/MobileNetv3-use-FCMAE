@@ -31,7 +31,8 @@ Using the Mini-Imagenet dataset, there are a total of 100 categories, each with 
 | Small (our 100 epoch) | 2950524    | 73.21%    |
 | Large (our 100 epoch) | 5178732    | 78.29%    |
 
-Reference
+### Reference
+
 https://github.com/xiaolai-sqlai/mobilenetv3
 
 https://github.com/facebookresearch/ConvNeXt-V2
